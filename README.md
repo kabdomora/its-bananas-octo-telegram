@@ -77,7 +77,7 @@ Repository contains multiple descriptive commit messages. 👌
 Repository contains a quality README file with description, screenshot, and link to deployed application. 👌
 
 Deployed link: https://kabdomora.github.io/its-bananas-octo-telegram/#social-media-marketing 
-Deployed screenshot: (./assets/images/Screenshot.deployed.PNG)
+Deployed screenshot: ![Screenshot](Screenshot-deployed.PNG)
 
 
 <!-- You are required to submit BOTH of the following for review: -->
