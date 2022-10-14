@@ -10,8 +10,8 @@ SO THAT our own site is optimized for search engines
 <!-- Acceptance Criteria -->
 GIVEN a webpage meets accessibility standards
 WHEN I view the source code
-THEN I find semantic HTML elements 
-                    <!-- confirmed the source file uses semantic HTML elements without need for edit -->
+THEN I find semantic HTML elements 👌
+                    <!-- confirmed the source file uses some semantic HTML elements -->
                     <!-- broke HTML out into additional semantic elements for better design
                     Nav
                     Figure
@@ -49,32 +49,35 @@ Satisfies all of the preceding acceptance criteria plus the following code impro
 
 Application's links all function correctly.👌
 
-Application's CSS selectors and properties are consolidated and organized to follow semantic structure.
+Application's CSS selectors and properties are consolidated and organized to follow semantic structure. 👌
 
-Application's CSS file is properly commented.
+Application's CSS file is properly commented. 👌
 
 <!-- Deployment: 32% -->
-Application deployed at live URL.
+Application deployed at live URL. 👌
 
-Application loads with no errors.
+Application loads with no errors. 👌
 
-Application GitHub URL submitted.
+Application GitHub URL submitted. 👌
 
-GitHub repository that contains application code.
+GitHub repository that contains application code. 👌
 
 <!-- Application Quality: 15% -->
-Application resembles (at least 90%) screenshots provided in challenge instructions.
+Application resembles (at least 90%) screenshots provided in challenge instructions. 👌
 
 <!-- Repository Quality: 13% -->
-Repository has a unique name.
+Repository has a unique name. 👌
 
-Repository follows best practices for file structure and naming conventions.
+Repository follows best practices for file structure and naming conventions. 👌
 
-Repository follows best practices for class/id naming conventions, indentation, quality comments, etc.
+Repository follows best practices for class/id naming conventions, indentation, quality comments, etc. 👌
 
-Repository contains multiple descriptive commit messages.
+Repository contains multiple descriptive commit messages. 👌
 
-Repository contains a quality README file with description, screenshot, and link to deployed application.
+Repository contains a quality README file with description, screenshot, and link to deployed application. 👌
+
+Deployed link: https://kabdomora.github.io/its-bananas-octo-telegram/#social-media-marketing 
+Deployed screenshot: (./assets/images/Screenshot.deployed.PNG)
 
 
 <!-- You are required to submit BOTH of the following for review: -->
