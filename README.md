@@ -10,13 +10,23 @@ SO THAT our own site is optimized for search engines
 <!-- Acceptance Criteria -->
 GIVEN a webpage meets accessibility standards
 WHEN I view the source code
-THEN I find semantic HTML elements 👌
+THEN I find semantic HTML elements 
                     <!-- confirmed the source file uses semantic HTML elements without need for edit -->
+                    <!-- broke HTML out into additional semantic elements for better design
+                    Nav
+                    Figure
+                    Section
+                    Aside
+                    Footer -->
+                    <!-- div and span remaining are intentional as changing to other semantic elements 
+                    did not yield desired results -->
 
 WHEN I view the structure of the HTML elements
 THEN I find that the elements follow a logical structure independent of styling and positioning 👌
                     <!-- i don't find anything inherently wrong with the order of elements as-is. 
                     the order is logical to me -->
+                    <!-- noting the CSS needs cleaning up, this prompt is for HTML so I assume
+                    CSS order, comments, and condensing is separate -->
 
 WHEN I view the image elements
 THEN I find accessible alt attributes 👌
