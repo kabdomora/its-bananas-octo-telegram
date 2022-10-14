@@ -35,8 +35,7 @@ THEN I find accessible alt attributes 👌
 
 WHEN I view the heading attributes
 THEN they fall in sequential order 👌
-                    <!-- confirmed headers are h1, h2, h3 sequential as-is. 
-                    no edits made -->
+                    <!-- footer updated to h4 -->
 
 WHEN I view the title element
 THEN I find a concise, descriptive title 👌
